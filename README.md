@@ -1,0 +1,1 @@
+# Sample Terraform configuration for ECS Fargate app
